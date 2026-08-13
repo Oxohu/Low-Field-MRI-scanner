@@ -18,7 +18,6 @@ The project integrates MRI hardware, embedded systems, robotics, automation, and
 - 3D-printed magnet housing
 - Imaging bore
 
-![Image description](images/WhatsApp Image 2026-08-12 at 10.37.56 (1).jpg)
 
 ### Robotic System
 
