@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 # ---------- parameters ----------
-RADIUS_MM = 30           # sphere radius
+RADIUS_MM = 20           # sphere radius
 STEP_MM   = 4           # grid spacing for x, y, z
 OUTFILE   = "path.csv"
 # ---------------------------------
